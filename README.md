@@ -3,10 +3,14 @@
 A simple HTML, CSS, and JavaScript project that mimics the look and feel of the Windows 11 start menu and taskbar.  This project is a work in progress and aims to replicate the basic UI elements.
 
 🌟 **Live Demo**
-Check out the live version of the website: [Windows 11 Clone 💻]()
+Check out the live version of the website:[Windows 11 Clone]()
 
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
+
+https://github.com/user-attachments/assets/12da01a9-c1c1-4272-bf21-a3fb05b7dc5a
+
+
 
 ## Features ✨
 
