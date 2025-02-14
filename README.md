@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/12da01a9-c1c1-4272-bf21-a3fb05b7dc5a
 *   **JavaScript:**  Handles the start menu toggle functionality.
 ## Project Structure 📁
 
-📂E-commerce Website/
+📂Windows 11 Clone/
 ├── index.html
 ├── style.css
 └── assets
